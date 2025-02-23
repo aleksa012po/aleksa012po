@@ -48,7 +48,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif"  />
 </div>
 
